@@ -15,3 +15,31 @@
 
 */
 
+h1 {
+    font-size: 14rem;
+}
+
+.lozenge:after {
+    content: ' \2666';
+    color: red;
+    font-size: 8rem;
+}
+
+
+.redheart:after {
+    content: ' \2665';
+    color: red;
+    font-size: 8rem;
+}
+
+.blacksuit:after {
+    content: ' \2663';
+    color: black;
+    font-size: 8rem;
+}
+
+.spadesuit:after {
+    content: ' \2660';
+    color: black;
+    font-size: 8rem;
+}
