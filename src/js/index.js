@@ -35,7 +35,7 @@ window.onload = function(){
         document.getElementById("header2").classList.add("lozenge");
     }else if (randomIcon === 2){
         document.getElementById("header1").classList.add("redheart");
-        document.getElementById("header2").classList.add("redheart");
+        document.getElementById("header2").classList.add("flippedRedheart");
     }else if (randomIcon === 3){
         document.getElementById("header1").classList.add("blacksuit");
         document.getElementById("header2").classList.add("blacksuit");
